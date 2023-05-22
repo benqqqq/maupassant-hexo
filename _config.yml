@@ -103,41 +103,41 @@ menu:
   - page: home
     directory: .
     icon: fa-home
-  - page: archive
-    directory: archives/
-    icon: fa-archive
-  - page: about
-    directory: about/
-    icon: fa-user
-  - page: rss
-    directory: atom.xml
-    icon: fa-rss
+#  - page: archive
+#    directory: archives/
+#    icon: fa-archive
+#  - page: about
+#    directory: about/
+#    icon: fa-user
+#  - page: rss
+#    directory: atom.xml
+#    icon: fa-rss
 
 widgets: ## Seven widgets in sidebar provided: search, info, category, tag, recent_posts, recent_comments and links.
-  - search
+#  - search
   - info
   - category
   - tag
   - recent_posts
   - recent_comments
-  - links
+#  - links
 
 info:
   avatar: /img/avatar.png
-  discription: To be a better man.
+  discription: Mitch
   outlinkitem:
-    - name: twitter
-      outlink: https://twitter.com/username
-      message: Twitter
+#    - name: twitter
+#      outlink: https://twitter.com/username
+#      message: Twitter
     - name: envelope
-      outlink: mailto:admin@domain.com
+      outlink: mailto:benq7879@gmail.com
       message: Email
     - name: github
-      outlink: https://github.com/username
+      outlink: https://github.com/benqqqq
       message: Github
-    - name: rss
-      outlink: /atom.xml
-      message: RSS
+#    - name: rss
+#      outlink: /atom.xml
+#      message: RSS
 
 links:
   - title: site-name1
